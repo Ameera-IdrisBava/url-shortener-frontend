@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to right, #e0f7fa, #fffde7);
+  font-family: 'Segoe UI', sans-serif;
+}
+
+h1 {
+  color: #00796b;
+}
+
+#output a {
+  font-weight: bold;
+  color: #d32f2f;
+}
